@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Katkade</h1>
 <h3 align="center">"Building the Web 👨‍💻, Structuring Data, Securing Systems 🖥️, Coding in C++, and Exploring the Tech ⚙️ World"</h3>
 
-<p align="left"> <a href="https://twitter.com/siddheshkatkad3" target="blank"><img src="https://img.shields.io/twitter/follow/siddheshkatkad3?logo=twitter&style=for-the-badge" alt="siddheshkatkad3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SiddheshKatkad3" target="blank"><img src="https://img.shields.io/twitter/follow/siddheshkatkad3?logo=twitter&style=for-the-badge" alt="siddheshkatkad3" /></a> </p>
 
 - 🔭 I have completed project on AI/ML [Spam Ham Classification](https://github.com/Sidd-17052004/Spam-Ham-Classification)
 
