@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Web Development 👨‍💻, Data Structures and Algorithms, C++ in advance, Cybersecurity, Networking 🛜**
 
-- 👯 Also completed the Web Development Project [Spotify Clone(HTML,CSS)](https://github.com/Sidd-17052004/Spotify-Clone)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sidd-17052004?tab=repositories](https://github.com/Sidd-17052004?tab=repositories)
 
 - 📫 How to reach me  **srkatkade@gmail.com**
