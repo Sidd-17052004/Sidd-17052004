@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/SiddheshKatkad3" target="blank"><img src="https://img.shields.io/twitter/follow/SiddheshKatkad3?logo=twitter&style=for-the-badge" alt="siddheshkatkad3" /></a> </p>
 
-- 🔭 I have completed project on PHP developemnt [Student Record Management System([https://github.com/Sidd-17052004/Student-Management-System])]
+- 🔭 I have completed project on PHP developemnt Student Record Management System([https://github.com/Sidd-17052004/Student-Management-System])
 
 - 🌱 I’m currently learning **Web Development 👨‍💻, Data Structures and Algorithms, C++ in advance, Networking 🛜**
 
