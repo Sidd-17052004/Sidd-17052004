@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Katkade</h1>
 <h3 align="center">"Building the Web 👨‍💻, Structuring Data, Securing Systems 🖥️, Coding in C++, and Exploring the Tech ⚙️ World"</h3>
 
-<p align="left"> <a href="https://twitter.com/SiddheshKatkad3" target="blank"><img src="https://img.shields.io/twitter/follow/SiddheshKatkad3?logo=twitter&style=for-the-badge" alt="siddheshkatkad3" /></a> </p>
+<a href="https://linkedin.com/in/siddhesh-katkade-tech-coder-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh-katkade-tech-coder-ai" height="30" width="40" /></a>
 
 - 🌱 I’m currently learning **Web Development 👨‍💻, Data Structures and Algorithms, C++ in advance, Networking 🛜**
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://dev.to/siddheshkatkade_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="siddheshkatkade_2004" height="30" width="40" /></a>
 <a href="https://twitter.com/siddheshkatkad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddheshkatkad3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddhesh-katkade-tech-coder-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh-katkade-tech-coder-ai" height="30" width="40" /></a>
 <a href="https://instagram.com/sidd_kat2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidd_kat2004" height="30" width="40" /></a>
 <a href="https://medium.com/@siddheshkatkade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@siddheshkatkade" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sidd_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidd_2004" height="30" width="40" /></a>
